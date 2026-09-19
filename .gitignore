@@ -143,3 +143,10 @@ poetry.toml
 # IDE
 *.code-workspace
 .windsurf/
+
+# token-scrub 2026-09-14: never commit secrets
+*.pat
+github_*_pat.json
+.env*
+*secret*
+*token*

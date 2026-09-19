@@ -1,3 +1,4 @@
+#include <cmath>
 // -*- mode:c++;indent-tabs-mode:nil;c-basic-offset:4;coding:utf-8 -*-
 // vi: set et ft=cpp fenc=utf-8 :vi
 //
